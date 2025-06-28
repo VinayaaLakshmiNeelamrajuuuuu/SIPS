@@ -1,2 +1,11 @@
 # StreamLine-Insurance-Processing-System
-identification of testscenarios,testcases,defect identification.
+
+The project includes :
+-identification of testscenarios
+-testcases,
+
+Modules covered:
+-login
+
+Tools used:
+-excel
